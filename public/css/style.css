@@ -1,0 +1,13 @@
+label.required:after {
+    content: "*";
+    padding-left: 2px;
+    color: #e3342f;
+}
+
+.select-picker {
+    border: 1px solid #ced4da;
+}
+
+body{
+    background:url("/assets/bg.jpg");background-size: cover;
+}
